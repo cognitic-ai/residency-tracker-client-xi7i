@@ -18,6 +18,7 @@
       "expo-web-browser",
       "@bacons/apple-colors"
     ],
-    "name": "Residency Tracker Client"
+    "name": "Residency Tracker Client",
+    "owner": "sethwebster"
   }
 }
